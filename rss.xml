@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Jan 2021 03:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 04:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷圣安东尼奥德洛斯科布雷斯以西63千米处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3021034.d.html</link>
+            <guid>2003514</guid>
+            <pubDate>Sun, 31 Jan 2021 04:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东涉疫奶枣流入四川德阳 3份样本检出阳性】今天（31日），四川省德阳市卫健委发布通报，通告山东省枣庄市涉疫奶枣流入四川德阳相关情况。经调查，该批涉疫奶枣均为网上购买，涉及德阳市旌阳区、广汉市、什邡市、绵竹市、中江县5个区（市、县）。目前，经对流入德阳的奶枣采样检测，有3份样品新冠病毒核酸检测结果为阳性（中江县3份），其余均为阴性；对相关接触人员和环境采样检测，结果均为阴性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2033191.d.html</link>
+            <guid>2003513</guid>
+            <pubDate>Sun, 31 Jan 2021 04:19:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：距弹劾案不足两周，5名律师离开特朗普法律团队】特朗普弹劾案没律师了？美国有线电视新闻网（CNN）当地时间30日援引消息人士的话称，在距离美国前总统特朗普的弹劾审判还有一周多时间之际，5名律师已经离开其法律团队，其中包括两名“领头”律师，理由是不赞同特朗普的“法律策略”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2032441.d.html</link>
+            <guid>2003512</guid>
+            <pubDate>Sun, 31 Jan 2021 04:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钟南山称新冠肺炎研究最新发现 前5天后5天无症状但有明显传染性】“新冠肺炎不同于SARS，在前5天后5天无症状但有明显传染性。”钟南山院士今天表示，这是新冠肺炎研究的最新发现。春节临近，高风险区就地过年，中风险区原则上就地过年，低风险区倡导就地过年，特别是在农村少点串门和聚会，要重点监测。农村的科普一定要做到位，如果出现非常明显的疲劳、嗓子疼、发烧，一定要做核酸检测。村民集合坐大巴去县城检测会造成相互感染，这种情况不应该再出现，现在检测车混检一天最高做50万，开到村头不要让老百姓来回奔波。（中国青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3016870.d.html</link>
+            <guid>2003510</guid>
+            <pubDate>Sun, 31 Jan 2021 04:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钟南山：不认为核酸转阳病例有很强的传染性】近期有一些地区出现了新冠肺炎确诊病例康复后，核酸检测转阳的情况。对此，钟南山表示不认为转阳病例有很强的威胁、很强的传染性，可能这些病例有核酸片段的残余。但有核酸片段的残余不等于有活病毒，很少看到核酸转阳性还会传染别人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2028516.d.html</link>
+            <guid>2003506</guid>
+            <pubDate>Sun, 31 Jan 2021 03:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春运第三天，全国发送旅客1727.9万人次】昨天（30日）是春运第三天，国务院联防联控机制春运工作专班数据显示，昨天，全国发送旅客1727.9万人次。其中铁路发送296.3万人次，公路1353万人次，水路29.8万人次，民航48.8万人次。全国高速公路流量2699.3万辆。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3009005.d.html</link>
@@ -396,42 +426,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2950880.d.html</link>
             <guid>2002845</guid>
             <pubDate>Sat, 30 Jan 2021 16:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增新冠肺炎确诊病例23275例，新增死亡病例1200例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1965246.d.html</link>
-            <guid>2002844</guid>
-            <pubDate>Sat, 30 Jan 2021 16:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：叙利亚北部阿夫林地区汽车爆炸事件至少导致5人死亡，13人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1965042.d.html</link>
-            <guid>2002843</guid>
-            <pubDate>Sat, 30 Jan 2021 15:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国内阁办公厅大臣戈夫：欧盟方面认识到他们错误地触发了英国脱欧协议的条款，现在有必要重设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1964821.d.html</link>
-            <guid>2002842</guid>
-            <pubDate>Sat, 30 Jan 2021 15:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞波币日内持续上涨，涨幅达30.66%，现报0.37美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1964592.d.html</link>
-            <guid>2002839</guid>
-            <pubDate>Sat, 30 Jan 2021 15:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国纽约州州长科莫：纽约州新增新冠肺炎确诊病例12804例，新增死亡病例140例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2949017.d.html</link>
-            <guid>2002823</guid>
-            <pubDate>Sat, 30 Jan 2021 15:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【部分枣庄涉疫奶枣通过线上渠道流入天津市】记者刚刚从天津市防控指挥部获悉，部分枣庄涉疫奶枣通过线上渠道流入天津市，目前全市共有8份奶枣样本核酸检测结果呈阳性，相关人员核酸检测结果均为阴性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1963359.d.html</link>
-            <guid>2002821</guid>
-            <pubDate>Sat, 30 Jan 2021 15:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
