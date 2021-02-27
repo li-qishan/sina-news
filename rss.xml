@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Feb 2021 09:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 10:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  马来西亚周六新增2364例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0076294.d.html</link>
+            <guid>2045845</guid>
+            <pubDate>Sat, 27 Feb 2021 10:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  2月27日，国务院联防联控机制春运工作专班数据显示，春运进入第31日，全国预计发送旅客3023万人次。其中铁路预计发送旅客935万人次，公路1910万人次，水路40万人次，民航138万人次。全国高速公路预计流量3624万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9089149.d.html</link>
+            <guid>2045842</guid>
+            <pubDate>Sat, 27 Feb 2021 09:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：德国寻求延长交通领域的禁止措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088749.d.html</link>
+            <guid>2045841</guid>
+            <pubDate>Sat, 27 Feb 2021 09:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中通客车：获浙江金华市批量氢燃料客车订单】记者从中通客车获悉，近日，中通氢燃料客车迎来2021年首季“开门红”，赢获浙江金华市批量氢燃料客车订单，助力“金华氢谷”建设。公司介绍，此次中通客车中标的氢燃料公交客车，是金华氢能产业发展的重要组成部分。待交付后，将承担婺城区氢燃料公交示范线路的运营任务，成为金华市市区的首批氢燃料客车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9088145.d.html</link>
+            <guid>2045840</guid>
+            <pubDate>Sat, 27 Feb 2021 09:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡塔尔新增460例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0071571.d.html</link>
+            <guid>2045839</guid>
+            <pubDate>Sat, 27 Feb 2021 09:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港媒：影星吴孟达患肝癌去世】据东网等多家港媒刚刚消息，香港影星吴孟达因肝癌于仁安医院逝世，终年68岁。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0071302.d.html</link>
+            <guid>2045838</guid>
+            <pubDate>Sat, 27 Feb 2021 09:34:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  匈牙利新增新冠肺炎确诊病例4948例，累计确诊424130例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9085648.d.html</link>
@@ -439,30 +475,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0003335.d.html</link>
             <guid>2045129</guid>
             <pubDate>Sat, 27 Feb 2021 02:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：斐济莱武卡东部293公里处发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0003237.d.html</link>
-            <guid>2045127</guid>
-            <pubDate>Sat, 27 Feb 2021 02:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中行深圳分行：将以参考价为房贷重要参考 具体细则仍在研究制定中】今日，中行深圳分行回应表示，中行将以深圳住建局发布的成交参考价格作为贷款发放的重要参考，具体细则正在研究制定中。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9016814.d.html</link>
-            <guid>2045124</guid>
-            <pubDate>Sat, 27 Feb 2021 02:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：美国感染埃博拉病毒的风险很低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9015134.d.html</link>
-            <guid>2045122</guid>
-            <pubDate>Sat, 27 Feb 2021 02:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司在法国的GRAVELINES 3号反应堆发生了超出计划外的停机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9014710.d.html</link>
-            <guid>2045118</guid>
-            <pubDate>Sat, 27 Feb 2021 02:17:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
